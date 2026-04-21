@@ -32,7 +32,7 @@ Input -> Planner Agent -> Orchestrator -> Agents -> Streaming Output
 5. Results streamed back to user
 
 ## Setup
-pip install fastapi uvicorn python-dotenv groq asyncio
+pip install fastapi uvicorn python-dotenv groq 
 or
 pip install -r requirements.txt
 
